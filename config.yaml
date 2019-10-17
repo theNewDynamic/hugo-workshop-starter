@@ -1,4 +1,5 @@
 baseURL: http://example.org/
 languageCode: en-us
 title: Worshopshop!
-description: "The future is JAMstack, but many people want to know: What is the tool that will allow me to build my personal blog, yet, scale to large sites and handle any sort of complexity I need? Hugo is not only the world’s fastest static site generator, but also happens to be a sophisticated build tool that is as powerful as it is flexible." 
+params:
+  description: "The future is JAMstack, but many people want to know: What is the tool that will allow me to build my personal blog, yet, scale to large sites and handle any sort of complexity I need? Hugo is not only the world’s fastest static site generator, but also happens to be a sophisticated build tool that is as powerful as it is flexible." 
