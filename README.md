@@ -1,6 +1,6 @@
 # Hugo Workshop Starter
 
-###Instructors: 
+### Instructors: 
 - Régis Philibert [@regisphilibert](https://twitter.com/regisphilibert)
 - Bud Parr [@budparr](https://twitter.com/budparr)
 
