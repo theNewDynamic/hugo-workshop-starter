@@ -3,7 +3,7 @@ color: '#23565e'
 date: 2019-03-10T16:35:37Z
 description: In eleifend quam a odio. In hac habitasse platea dictumst.
 duration: 8
-image: temp_image_1
+image: /images/ws_image_1.jpg
 instructors: ["Deanna Greim"]
 technologies: ["Eleventy","JS"]
 title: Kanlam workshop

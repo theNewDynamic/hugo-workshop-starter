@@ -3,7 +3,7 @@ color: '#778f6c'
 date: 2018-12-10T08:39:30Z
 description: Nullam molestie nibh in lectus.
 duration: 2
-image: temp_image_1
+image: /images/ws_image_1.jpg
 instructors: ["Evy Deabill"]
 technologies: ["HTML"]
 title: Y-find workshop

@@ -3,7 +3,7 @@ color: '#4717f7'
 date: 2018-12-22T14:43:28Z
 description: Donec posuere metus vitae ipsum.
 duration: 7
-image: temp_image_2
+image: /images/ws_image_2.jpg
 instructors: ["Sarette Greep"]
 technologies: ["JAMStack","Eleventy","Angular"]
 title: Matsoft workshop

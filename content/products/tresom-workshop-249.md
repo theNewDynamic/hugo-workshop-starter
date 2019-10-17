@@ -3,7 +3,7 @@ color: '#cf41f1'
 date: 2018-11-20T17:20:23Z
 description: Nunc purus. Phasellus in felis.
 duration: 6
-image: temp_image_4
+image: /images/ws_image_4.jpg
 instructors: ["Berkie Langley"]
 technologies: ["HTML","Hugo"]
 title: Tresom workshop

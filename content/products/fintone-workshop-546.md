@@ -3,7 +3,7 @@ color: '#60c53f'
 date: 2019-06-20T19:30:11Z
 description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 duration: 2
-image: temp_image_1
+image: /images/ws_image_1.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["HTML"]
 title: Fintone workshop

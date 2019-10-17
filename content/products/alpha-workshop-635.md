@@ -3,7 +3,7 @@ color: '#88c25e'
 date: 2018-12-17T02:43:50Z
 description: In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 duration: 5
-image: temp_image_1
+image: /images/ws_image_1.jpg
 instructors: ["Deanna Greim"]
 technologies: ["CSS","Vue"]
 title: Alpha workshop

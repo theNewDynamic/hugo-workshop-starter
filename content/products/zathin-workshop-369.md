@@ -3,7 +3,7 @@ color: '#bf8e8e'
 date: 2018-10-27T08:57:23Z
 description: Curabitur at ipsum ac tellus semper interdum.
 duration: 8
-image: temp_image_1
+image: /images/ws_image_1.jpg
 instructors: ["Deanna Greim"]
 technologies: ["JAMStack","Eleventy"]
 title: Zathin workshop

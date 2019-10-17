@@ -3,7 +3,7 @@ color: '#dee8e2'
 date: 2018-11-28T02:23:02Z
 description: Nullam sit amet turpis elementum ligula vehicula consequat.
 duration: 7
-image: temp_image_5
+image: /images/ws_image_5.jpg
 instructors: ["Sarette Greep"]
 technologies: ["Angular","Hugo"]
 title: Sonsing workshop

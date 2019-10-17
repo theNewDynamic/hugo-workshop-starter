@@ -3,7 +3,7 @@ color: '#bbd719'
 date: 2019-05-01T04:18:01Z
 description: Curabitur gravida nisi at nibh.
 duration: 4
-image: temp_image_2
+image: /images/ws_image_2.jpg
 instructors: ["Deanna Greim"]
 technologies: ["Hugo","HTML"]
 title: Rank workshop

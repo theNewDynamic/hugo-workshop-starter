@@ -3,7 +3,7 @@ color: '#67cfc0'
 date: 2019-08-21T18:19:35Z
 description: Praesent id massa id nisl venenatis lacinia.
 duration: 2
-image: temp_image_3
+image: /images/ws_image_3.jpg
 instructors: ["Deanna Greim"]
 technologies: ["HTML"]
 title: Redhold workshop

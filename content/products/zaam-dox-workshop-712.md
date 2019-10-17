@@ -3,7 +3,7 @@ color: '#8076fa'
 date: 2018-11-18T10:52:37Z
 description: Proin eu mi.
 duration: 4
-image: temp_image_4
+image: /images/ws_image_4.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["HTML","CSS","JAMStack"]
 title: Zaam-Dox workshop

@@ -3,7 +3,7 @@ color: '#62b467'
 date: 2019-01-11T13:04:27Z
 description: Suspendisse potenti.
 duration: 3
-image: temp_image_4
+image: /images/ws_image_4.jpg
 instructors: ["Evy Deabill"]
 technologies: ["JAMStack","Hugo"]
 title: Andalax workshop

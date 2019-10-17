@@ -3,7 +3,7 @@ color: '#dad17c'
 date: 2019-05-10T10:43:59Z
 description: Integer a nibh.
 duration: 8
-image: temp_image_5
+image: /images/ws_image_5.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["Eleventy","CSS"]
 title: Cookley workshop

@@ -3,7 +3,7 @@ color: '#941914'
 date: 2019-05-24T12:14:16Z
 description: Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula.
 duration: 6
-image: temp_image_3
+image: /images/ws_image_3.jpg
 instructors: ["Deanna Greim"]
 technologies: ["CSS"]
 title: Gembucket workshop

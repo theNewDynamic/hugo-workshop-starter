@@ -3,7 +3,7 @@ color: '#3a1264'
 date: 2019-08-01T11:27:47Z
 description: Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam. Nam tristique tortor eu pede.
 duration: 6
-image: temp_image_1
+image: /images/ws_image_1.jpg
 instructors: ["Sarette Greep"]
 technologies: ["CSS"]
 title: Zoolab workshop

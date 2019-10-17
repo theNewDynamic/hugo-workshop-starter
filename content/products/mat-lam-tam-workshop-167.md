@@ -3,7 +3,7 @@ color: '#d3e523'
 date: 2019-05-02T23:35:09Z
 description: Mauris sit amet eros.
 duration: 4
-image: temp_image_3
+image: /images/ws_image_3.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["JAMStack","Hugo"]
 title: Mat Lam Tam workshop

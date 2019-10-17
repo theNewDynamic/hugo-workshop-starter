@@ -3,7 +3,7 @@ color: '#f08b7d'
 date: 2019-02-17T04:18:49Z
 description: Vivamus tortor. Duis mattis egestas metus.
 duration: 6
-image: temp_image_4
+image: /images/ws_image_4.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["Eleventy"]
 title: Namfix workshop

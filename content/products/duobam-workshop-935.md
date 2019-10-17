@@ -3,7 +3,7 @@ color: '#7355b3'
 date: 2019-04-07T19:09:54Z
 description: Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum.
 duration: 3
-image: temp_image_4
+image: /images/ws_image_4.jpg
 instructors: ["Evy Deabill"]
 technologies: ["Eleventy","Angular","React"]
 title: Duobam workshop

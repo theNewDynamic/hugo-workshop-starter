@@ -3,7 +3,7 @@ color: '#d6bcf9'
 date: 2019-01-28T14:16:33Z
 description: Phasellus id sapien in sapien iaculis congue.
 duration: 5
-image: temp_image_1
+image: /images/ws_image_1.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["HTML","JS","Vue"]
 title: Home Ing workshop

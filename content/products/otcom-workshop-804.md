@@ -3,7 +3,7 @@ color: '#dcd043'
 date: 2018-11-30T21:35:07Z
 description: Morbi non lectus.
 duration: 6
-image: temp_image_3
+image: /images/ws_image_3.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["Angular","JS"]
 title: Otcom workshop

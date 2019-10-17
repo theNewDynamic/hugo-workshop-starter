@@ -3,7 +3,7 @@ color: '#32dcb4'
 date: 2019-08-07T04:10:20Z
 description: Phasellus sit amet erat. Nulla tempus.
 duration: 8
-image: temp_image_1
+image: /images/ws_image_1.jpg
 instructors: ["Deanna Greim"]
 technologies: ["Hugo","React","Angular"]
 title: Biodex workshop

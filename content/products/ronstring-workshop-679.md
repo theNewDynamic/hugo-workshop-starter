@@ -3,7 +3,7 @@ color: '#438f5b'
 date: 2019-07-08T09:30:56Z
 description: Donec semper sapien a libero.
 duration: 2
-image: temp_image_5
+image: /images/ws_image_5.jpg
 instructors: ["Benn Buffin"]
 technologies: ["JAMStack"]
 title: Ronstring workshop

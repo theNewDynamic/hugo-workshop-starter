@@ -3,7 +3,7 @@ color: '#093c5e'
 date: 2019-06-28T19:46:09Z
 description: Mauris sit amet eros.
 duration: 2
-image: temp_image_6
+image: /images/ws_image_6.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["JAMStack","Angular","CSS"]
 title: Voltsillam workshop

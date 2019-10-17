@@ -3,7 +3,7 @@ color: '#741f59'
 date: 2019-08-24T10:04:48Z
 description: Pellentesque eget nunc.
 duration: 7
-image: temp_image_6
+image: /images/ws_image_6.jpg
 instructors: ["Sarette Greep"]
 technologies: ["CSS","JAMStack","Eleventy"]
 title: Span workshop

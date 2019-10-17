@@ -3,7 +3,7 @@ color: '#0cafc4'
 date: 2019-06-24T04:44:05Z
 description: Curabitur gravida nisi at nibh. In hac habitasse platea dictumst.
 duration: 4
-image: temp_image_1
+image: /images/ws_image_1.jpg
 instructors: ["Deanna Greim"]
 technologies: ["Eleventy","CSS","JAMStack"]
 title: Temp workshop

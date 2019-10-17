@@ -3,7 +3,7 @@ color: '#c89de5'
 date: 2019-02-10T18:19:23Z
 description: Etiam pretium iaculis justo.
 duration: 3
-image: temp_image_1
+image: /images/ws_image_1.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["HTML","JAMStack"]
 title: It workshop

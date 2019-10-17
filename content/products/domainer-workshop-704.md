@@ -3,7 +3,7 @@ color: '#868ce3'
 date: 2019-06-03T12:31:33Z
 description: Fusce consequat. Nulla nisl.
 duration: 6
-image: temp_image_4
+image: /images/ws_image_4.jpg
 instructors: ["Berkie Langley"]
 technologies: ["Vue","JAMStack"]
 title: Domainer workshop

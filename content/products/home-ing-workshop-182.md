@@ -3,7 +3,7 @@ color: '#98a30d'
 date: 2019-05-30T05:24:43Z
 description: Vivamus vel nulla eget eros elementum pellentesque.
 duration: 7
-image: temp_image_3
+image: /images/ws_image_3.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["Vue","Angular","JAMStack"]
 title: Home Ing workshop

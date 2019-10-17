@@ -3,7 +3,7 @@ color: '#bd099b'
 date: 2018-12-05T07:18:40Z
 description: Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.
 duration: 5
-image: temp_image_3
+image: /images/ws_image_3.jpg
 instructors: ["Benn Buffin"]
 technologies: ["Vue","JS","Eleventy"]
 title: Tres-Zap workshop

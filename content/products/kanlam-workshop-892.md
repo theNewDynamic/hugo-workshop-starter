@@ -3,7 +3,7 @@ color: '#595c96'
 date: 2019-08-27T07:00:06Z
 description: Phasellus in felis. Donec semper sapien a libero.
 duration: 7
-image: temp_image_5
+image: /images/ws_image_5.jpg
 instructors: ["Evy Deabill"]
 technologies: ["Eleventy"]
 title: Kanlam workshop

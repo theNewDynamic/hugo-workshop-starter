@@ -3,7 +3,7 @@ color: '#1efc60'
 date: 2019-01-01T04:53:03Z
 description: Curabitur gravida nisi at nibh.
 duration: 4
-image: temp_image_6
+image: /images/ws_image_6.jpg
 instructors: ["Berkie Langley"]
 technologies: ["React","HTML","CSS"]
 title: Zoolab workshop

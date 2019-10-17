@@ -3,7 +3,7 @@ color: '#042962'
 date: 2019-08-12T01:17:03Z
 description: Quisque ut erat.
 duration: 7
-image: temp_image_3
+image: /images/ws_image_3.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["React","Hugo"]
 title: Tampflex workshop

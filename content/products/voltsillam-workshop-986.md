@@ -3,7 +3,7 @@ color: '#9a93d4'
 date: 2019-07-21T17:51:04Z
 description: Nunc rhoncus dui vel sem. Sed sagittis.
 duration: 2
-image: temp_image_6
+image: /images/ws_image_6.jpg
 instructors: ["Sarette Greep"]
 technologies: ["CSS"]
 title: Voltsillam workshop

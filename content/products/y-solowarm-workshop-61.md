@@ -3,7 +3,7 @@ color: '#3e254f'
 date: 2019-01-27T10:47:55Z
 description: Donec quis orci eget orci vehicula condimentum.
 duration: 2
-image: temp_image_6
+image: /images/ws_image_6.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["Angular","React","Vue"]
 title: Y-Solowarm workshop

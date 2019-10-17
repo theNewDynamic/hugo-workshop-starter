@@ -3,7 +3,7 @@ color: '#70594f'
 date: 2018-12-19T05:21:54Z
 description: Sed accumsan felis. Ut at dolor quis odio consequat varius.
 duration: 7
-image: temp_image_6
+image: /images/ws_image_6.jpg
 instructors: ["Benn Buffin"]
 technologies: ["Vue"]
 title: Flexidy workshop

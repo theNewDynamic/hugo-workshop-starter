@@ -3,7 +3,7 @@ color: '#525656'
 date: 2019-04-06T21:10:02Z
 description: Donec posuere metus vitae ipsum.
 duration: 3
-image: temp_image_1
+image: /images/ws_image_1.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["Eleventy","JS"]
 title: Transcof workshop

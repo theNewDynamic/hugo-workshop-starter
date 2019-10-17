@@ -3,7 +3,7 @@ color: '#87b295'
 date: 2018-11-15T21:00:50Z
 description: Pellentesque eget nunc.
 duration: 7
-image: temp_image_4
+image: /images/ws_image_4.jpg
 instructors: ["Evy Deabill"]
 technologies: ["Vue","JS","CSS"]
 title: Konklux workshop

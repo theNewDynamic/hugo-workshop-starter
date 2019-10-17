@@ -3,7 +3,7 @@ color: '#8e6ce9'
 date: 2019-06-23T22:46:11Z
 description: Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis.
 duration: 6
-image: temp_image_3
+image: /images/ws_image_3.jpg
 instructors: ["Deanna Greim"]
 technologies: ["Hugo","HTML"]
 title: Lotstring workshop

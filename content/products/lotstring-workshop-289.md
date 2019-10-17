@@ -3,7 +3,7 @@ color: '#12b0a1'
 date: 2019-09-01T16:53:51Z
 description: Nulla nisl. Nunc nisl.
 duration: 6
-image: temp_image_6
+image: /images/ws_image_6.jpg
 instructors: ["Sarette Greep"]
 technologies: ["CSS","Angular","HTML"]
 title: Lotstring workshop

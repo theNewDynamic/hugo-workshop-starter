@@ -3,7 +3,7 @@ color: '#56b1e0'
 date: 2019-09-18T17:36:46Z
 description: Morbi non quam nec dui luctus rutrum.
 duration: 5
-image: temp_image_1
+image: /images/ws_image_1.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["HTML"]
 title: Mat Lam Tam workshop

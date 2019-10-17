@@ -3,7 +3,7 @@ color: '#d16f06'
 date: 2019-07-30T08:53:22Z
 description: Quisque ut erat.
 duration: 6
-image: temp_image_3
+image: /images/ws_image_3.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["Vue"]
 title: Temp workshop

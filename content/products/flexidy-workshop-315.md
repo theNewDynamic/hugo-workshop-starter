@@ -3,7 +3,7 @@ color: '#106255'
 date: 2019-06-17T18:33:10Z
 description: Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis.
 duration: 7
-image: temp_image_5
+image: /images/ws_image_5.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["JAMStack","HTML","React"]
 title: Flexidy workshop

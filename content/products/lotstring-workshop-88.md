@@ -3,7 +3,7 @@ color: '#e1136c'
 date: 2019-02-28T06:48:15Z
 description: Nulla justo. Aliquam quis turpis eget elit sodales scelerisque.
 duration: 4
-image: temp_image_3
+image: /images/ws_image_3.jpg
 instructors: ["Evy Deabill"]
 technologies: ["Hugo","Angular"]
 title: Lotstring workshop

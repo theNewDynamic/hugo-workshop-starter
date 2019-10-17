@@ -3,7 +3,7 @@ color: '#5ff802'
 date: 2019-05-10T12:37:17Z
 description: Duis bibendum.
 duration: 3
-image: temp_image_1
+image: /images/ws_image_1.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["Hugo","JS"]
 title: Bamity workshop

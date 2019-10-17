@@ -3,7 +3,7 @@ color: '#71ff4e'
 date: 2018-12-08T09:07:51Z
 description: Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.
 duration: 5
-image: temp_image_1
+image: /images/ws_image_1.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["Eleventy","Hugo","React"]
 title: Alpha workshop

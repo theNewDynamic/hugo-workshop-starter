@@ -3,7 +3,7 @@ color: '#cf243c'
 date: 2018-11-24T06:34:49Z
 description: Sed ante. Vivamus tortor.
 duration: 3
-image: temp_image_2
+image: /images/ws_image_2.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["Eleventy","Vue","JAMStack"]
 title: Voyatouch workshop

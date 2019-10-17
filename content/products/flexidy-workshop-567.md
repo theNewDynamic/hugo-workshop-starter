@@ -3,7 +3,7 @@ color: '#b5c56a'
 date: 2019-09-15T02:56:42Z
 description: Suspendisse potenti. Cras in purus eu magna vulputate luctus.
 duration: 6
-image: temp_image_2
+image: /images/ws_image_2.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["Hugo","JS"]
 title: Flexidy workshop

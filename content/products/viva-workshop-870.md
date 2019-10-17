@@ -3,7 +3,7 @@ color: '#e43955'
 date: 2019-08-05T20:08:37Z
 description: Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit.
 duration: 6
-image: temp_image_5
+image: /images/ws_image_5.jpg
 instructors: ["Berkie Langley"]
 technologies: ["Vue","HTML","Eleventy"]
 title: Viva workshop

@@ -3,7 +3,7 @@ color: '#933765'
 date: 2019-01-20T21:08:34Z
 description: Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl. Aenean lectus.
 duration: 3
-image: temp_image_3
+image: /images/ws_image_3.jpg
 instructors: ["Berkie Langley"]
 technologies: ["HTML"]
 title: Aerified workshop

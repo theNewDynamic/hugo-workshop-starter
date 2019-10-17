@@ -3,7 +3,7 @@ color: '#83fbbd'
 date: 2019-03-30T15:49:59Z
 description: Phasellus id sapien in sapien iaculis congue.
 duration: 3
-image: temp_image_1
+image: /images/ws_image_1.jpg
 instructors: ["Deanna Greim"]
 technologies: ["CSS"]
 title: Tin workshop

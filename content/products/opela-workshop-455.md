@@ -3,7 +3,7 @@ color: '#a03368'
 date: 2019-03-03T11:51:24Z
 description: Donec ut mauris eget massa tempor convallis.
 duration: 8
-image: temp_image_3
+image: /images/ws_image_3.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["JS"]
 title: Opela workshop

@@ -3,7 +3,7 @@ color: '#2a73e3'
 date: 2019-08-20T11:16:24Z
 description: Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
 duration: 7
-image: temp_image_1
+image: /images/ws_image_1.jpg
 instructors: ["Berkie Langley"]
 technologies: ["JS"]
 title: Keylex workshop

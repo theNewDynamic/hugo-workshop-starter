@@ -3,7 +3,7 @@ color: '#ef9820'
 date: 2019-08-01T17:36:44Z
 description: Morbi vel lectus in quam fringilla rhoncus.
 duration: 3
-image: temp_image_3
+image: /images/ws_image_3.jpg
 instructors: ["Sarette Greep"]
 technologies: ["JS"]
 title: Voltsillam workshop

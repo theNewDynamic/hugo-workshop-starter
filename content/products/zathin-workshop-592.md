@@ -3,7 +3,7 @@ color: '#56c3e5'
 date: 2019-01-21T10:20:49Z
 description: Quisque ut erat.
 duration: 2
-image: temp_image_1
+image: /images/ws_image_1.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["React","Hugo"]
 title: Zathin workshop

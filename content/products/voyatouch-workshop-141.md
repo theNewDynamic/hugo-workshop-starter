@@ -3,7 +3,7 @@ color: '#2021fd'
 date: 2019-06-10T17:52:22Z
 description: Curabitur at ipsum ac tellus semper interdum.
 duration: 8
-image: temp_image_4
+image: /images/ws_image_4.jpg
 instructors: ["Evy Deabill"]
 technologies: ["Vue","JS","Eleventy"]
 title: Voyatouch workshop

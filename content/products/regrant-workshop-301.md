@@ -3,7 +3,7 @@ color: '#e1004c'
 date: 2019-07-27T00:10:30Z
 description: Morbi vel lectus in quam fringilla rhoncus.
 duration: 4
-image: temp_image_3
+image: /images/ws_image_3.jpg
 instructors: ["Sarette Greep"]
 technologies: ["JS","React","Angular"]
 title: Regrant workshop

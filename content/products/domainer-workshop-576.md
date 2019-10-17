@@ -3,7 +3,7 @@ color: '#643e8d'
 date: 2018-11-30T17:40:45Z
 description: Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor.
 duration: 4
-image: temp_image_1
+image: /images/ws_image_1.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["CSS","Angular","HTML"]
 title: Domainer workshop

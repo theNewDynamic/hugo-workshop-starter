@@ -3,7 +3,7 @@ color: '#c8dc9b'
 date: 2019-01-17T18:21:46Z
 description: Suspendisse potenti. Nullam porttitor lacus at turpis.
 duration: 2
-image: temp_image_3
+image: /images/ws_image_3.jpg
 instructors: ["Evy Deabill"]
 technologies: ["Angular"]
 title: Trippledex workshop

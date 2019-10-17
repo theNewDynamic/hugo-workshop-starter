@@ -3,7 +3,7 @@ color: '#ff3911'
 date: 2018-12-21T05:58:48Z
 description: Nullam molestie nibh in lectus. Pellentesque at nulla.
 duration: 6
-image: temp_image_2
+image: /images/ws_image_2.jpg
 instructors: ["Deanna Greim"]
 technologies: ["JS"]
 title: Zathin workshop

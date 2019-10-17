@@ -3,7 +3,7 @@ color: '#c81660'
 date: 2019-03-21T13:39:04Z
 description: Donec quis orci eget orci vehicula condimentum. Curabitur in libero ut massa volutpat convallis.
 duration: 4
-image: temp_image_2
+image: /images/ws_image_2.jpg
 instructors: ["Benn Buffin"]
 technologies: ["React"]
 title: Tin workshop

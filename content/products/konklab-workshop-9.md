@@ -3,7 +3,7 @@ color: '#dc92ce'
 date: 2019-05-22T23:39:49Z
 description: Curabitur gravida nisi at nibh. In hac habitasse platea dictumst.
 duration: 5
-image: temp_image_4
+image: /images/ws_image_4.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["Vue","Eleventy"]
 title: Konklab workshop

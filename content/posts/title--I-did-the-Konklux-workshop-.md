@@ -1,6 +1,6 @@
 ---
 date: 2019-05-05T20:38:10Z
-image: temp_image_4
+image: /images/ws_image_5.jpg
 instructor: "Benn Buffin"
 technologies: ["React","JS","JAMStack"]
 title: I did the Konklux workshop!

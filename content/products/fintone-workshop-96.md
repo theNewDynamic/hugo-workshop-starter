@@ -3,7 +3,7 @@ color: '#2fed00'
 date: 2019-09-10T10:40:48Z
 description: Nam dui.
 duration: 3
-image: temp_image_4
+image: /images/ws_image_4.jpg
 instructors: ["Deanna Greim"]
 technologies: ["JAMStack","Hugo"]
 title: Fintone workshop

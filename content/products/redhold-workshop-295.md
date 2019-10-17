@@ -3,7 +3,7 @@ color: '#3697d9'
 date: 2019-09-27T10:43:22Z
 description: Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio.
 duration: 3
-image: temp_image_2
+image: /images/ws_image_2.jpg
 instructors: ["Deanna Greim"]
 technologies: ["Angular","JS","CSS"]
 title: Redhold workshop

@@ -3,7 +3,7 @@ color: '#778233'
 date: 2019-04-20T20:21:59Z
 description: Curabitur at ipsum ac tellus semper interdum.
 duration: 2
-image: temp_image_6
+image: /images/ws_image_6.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["Hugo"]
 title: Greenlam workshop

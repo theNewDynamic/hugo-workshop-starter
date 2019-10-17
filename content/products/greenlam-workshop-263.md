@@ -3,7 +3,7 @@ color: '#08fd27'
 date: 2018-10-19T08:55:57Z
 description: Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue.
 duration: 2
-image: temp_image_1
+image: /images/ws_image_1.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["CSS"]
 title: Greenlam workshop

@@ -3,7 +3,7 @@ color: '#a159fa'
 date: 2018-12-24T16:07:00Z
 description: Pellentesque at nulla.
 duration: 6
-image: temp_image_4
+image: /images/ws_image_4.jpg
 instructors: ["Sarette Greep"]
 technologies: ["JAMStack"]
 title: Tampflex workshop

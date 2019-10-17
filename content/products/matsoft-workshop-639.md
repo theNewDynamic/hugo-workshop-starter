@@ -3,7 +3,7 @@ color: '#4cbfe3'
 date: 2019-09-20T10:23:41Z
 description: In hac habitasse platea dictumst.
 duration: 2
-image: temp_image_3
+image: /images/ws_image_3.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["Eleventy","HTML","CSS"]
 title: Matsoft workshop

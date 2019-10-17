@@ -3,7 +3,7 @@ color: '#fd367e'
 date: 2019-05-03T18:55:11Z
 description: Nullam sit amet turpis elementum ligula vehicula consequat.
 duration: 5
-image: temp_image_3
+image: /images/ws_image_3.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["HTML","CSS","JAMStack"]
 title: Hatity workshop

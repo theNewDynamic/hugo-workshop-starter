@@ -3,7 +3,7 @@ color: '#616666'
 date: 2019-10-04T06:50:14Z
 description: Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.
 duration: 4
-image: temp_image_6
+image: /images/ws_image_6.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["Vue","Hugo","Eleventy"]
 title: Lotstring workshop

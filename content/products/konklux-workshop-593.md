@@ -3,7 +3,7 @@ color: '#89bd04'
 date: 2019-05-26T18:30:17Z
 description: Ut at dolor quis odio consequat varius.
 duration: 5
-image: temp_image_1
+image: /images/ws_image_1.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["Eleventy","Angular"]
 title: Konklux workshop

@@ -3,7 +3,7 @@ color: '#6f6781'
 date: 2019-08-06T04:25:21Z
 description: Nunc rhoncus dui vel sem. Sed sagittis.
 duration: 2
-image: temp_image_6
+image: /images/ws_image_6.jpg
 instructors: ["Sarette Greep"]
 technologies: ["Vue","CSS","Eleventy"]
 title: Bamity workshop

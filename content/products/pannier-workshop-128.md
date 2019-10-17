@@ -3,7 +3,7 @@ color: '#590552'
 date: 2019-10-02T01:52:20Z
 description: Curabitur gravida nisi at nibh.
 duration: 5
-image: temp_image_5
+image: /images/ws_image_5.jpg
 instructors: ["Sarette Greep"]
 technologies: ["Vue","React"]
 title: Pannier workshop

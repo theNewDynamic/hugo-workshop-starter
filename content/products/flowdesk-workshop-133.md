@@ -3,7 +3,7 @@ color: '#770ad4'
 date: 2019-05-07T16:20:04Z
 description: Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia.
 duration: 7
-image: temp_image_2
+image: /images/ws_image_2.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["Angular","Hugo","JAMStack"]
 title: Flowdesk workshop

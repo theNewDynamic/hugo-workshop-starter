@@ -3,7 +3,7 @@ color: '#1d4270'
 date: 2019-03-02T05:31:14Z
 description: Nunc rhoncus dui vel sem.
 duration: 7
-image: temp_image_6
+image: /images/ws_image_6.jpg
 instructors: ["Sarette Greep"]
 technologies: ["JS","Hugo","HTML"]
 title: Cardify workshop

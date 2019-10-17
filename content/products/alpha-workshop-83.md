@@ -3,7 +3,7 @@ color: '#9ea5fd'
 date: 2019-07-26T01:44:40Z
 description: Sed sagittis.
 duration: 3
-image: temp_image_1
+image: /images/ws_image_1.jpg
 instructors: ["Sarette Greep"]
 technologies: ["JAMStack","Angular","Hugo"]
 title: Alpha workshop

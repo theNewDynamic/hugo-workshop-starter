@@ -3,7 +3,7 @@ color: '#7f3481'
 date: 2019-01-25T13:42:58Z
 description: Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo.
 duration: 4
-image: temp_image_1
+image: /images/ws_image_1.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["React"]
 title: Zaam-Dox workshop

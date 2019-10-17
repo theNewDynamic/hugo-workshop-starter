@@ -3,7 +3,7 @@ color: '#517271'
 date: 2019-09-06T05:08:36Z
 description: Nulla suscipit ligula in lacus.
 duration: 6
-image: temp_image_2
+image: /images/ws_image_2.jpg
 instructors: ["Evy Deabill"]
 technologies: ["React"]
 title: Ventosanzap workshop

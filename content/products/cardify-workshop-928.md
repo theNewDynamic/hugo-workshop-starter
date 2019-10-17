@@ -3,7 +3,7 @@ color: '#f54d68'
 date: 2018-11-24T09:45:24Z
 description: Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum.
 duration: 5
-image: temp_image_4
+image: /images/ws_image_4.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["Eleventy","Vue"]
 title: Cardify workshop

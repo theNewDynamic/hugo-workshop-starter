@@ -3,7 +3,7 @@ color: '#9bd637'
 date: 2018-11-14T18:27:41Z
 description: Duis bibendum. Morbi non quam nec dui luctus rutrum.
 duration: 8
-image: temp_image_4
+image: /images/ws_image_4.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["HTML","JS"]
 title: Wrapsafe workshop

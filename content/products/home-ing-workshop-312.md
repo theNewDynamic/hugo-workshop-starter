@@ -3,7 +3,7 @@ color: '#adeab9'
 date: 2018-11-20T00:08:18Z
 description: Sed ante.
 duration: 8
-image: temp_image_4
+image: /images/ws_image_4.jpg
 instructors: ["Sarette Greep"]
 technologies: ["React","CSS"]
 title: Home Ing workshop

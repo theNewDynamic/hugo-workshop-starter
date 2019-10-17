@@ -3,7 +3,7 @@ color: '#762559'
 date: 2019-06-09T15:47:08Z
 description: Aenean lectus.
 duration: 3
-image: temp_image_6
+image: /images/ws_image_6.jpg
 instructors: ["Evy Deabill"]
 technologies: ["JS","HTML","JAMStack"]
 title: Fix San workshop

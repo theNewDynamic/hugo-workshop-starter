@@ -3,7 +3,7 @@ color: '#86aaf1'
 date: 2019-02-27T22:52:35Z
 description: Vestibulum rutrum rutrum neque.
 duration: 4
-image: temp_image_6
+image: /images/ws_image_6.jpg
 instructors: ["Deanna Greim"]
 technologies: ["JS","Hugo"]
 title: Sonsing workshop

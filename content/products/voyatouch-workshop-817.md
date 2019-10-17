@@ -3,7 +3,7 @@ color: '#79909f'
 date: 2019-01-26T19:22:32Z
 description: In hac habitasse platea dictumst.
 duration: 3
-image: temp_image_4
+image: /images/ws_image_4.jpg
 instructors: ["Berkie Langley"]
 technologies: ["JS"]
 title: Voyatouch workshop

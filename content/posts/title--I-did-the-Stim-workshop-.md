@@ -1,6 +1,6 @@
 ---
 date: 2018-10-25T00:39:43Z
-image: temp_image_3
+image: /images/ws_image_8.jpg
 instructor: "Evy Deabill"
 technologies: ["Vue","CSS"]
 title: I did the Stim workshop!

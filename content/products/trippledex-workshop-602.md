@@ -3,7 +3,7 @@ color: '#f7835f'
 date: 2019-02-20T12:39:39Z
 description: Aenean auctor gravida sem.
 duration: 4
-image: temp_image_3
+image: /images/ws_image_3.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["HTML"]
 title: Trippledex workshop

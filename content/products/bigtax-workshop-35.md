@@ -3,7 +3,7 @@ color: '#381df8'
 date: 2019-08-09T05:47:30Z
 description: Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.
 duration: 2
-image: temp_image_5
+image: /images/ws_image_5.jpg
 instructors: ["Deanna Greim"]
 technologies: ["Hugo","JS"]
 title: Bigtax workshop

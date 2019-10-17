@@ -3,7 +3,7 @@ color: '#e4ea99'
 date: 2019-04-24T16:54:40Z
 description: Aenean lectus.
 duration: 4
-image: temp_image_4
+image: /images/ws_image_4.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["JAMStack","CSS","Vue"]
 title: Latlux workshop

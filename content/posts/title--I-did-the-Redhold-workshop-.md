@@ -1,6 +1,6 @@
 ---
 date: 2019-01-03T19:01:38Z
-image: temp_image_1
+image: /images/ws_image_6.jpg
 instructor: "Wesley Carbry"
 technologies: ["Hugo"]
 title: I did the Redhold workshop!

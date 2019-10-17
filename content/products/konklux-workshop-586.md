@@ -3,7 +3,7 @@ color: '#67c1f4'
 date: 2018-12-06T03:43:23Z
 description: Integer a nibh.
 duration: 6
-image: temp_image_2
+image: /images/ws_image_2.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["Vue","JS","React"]
 title: Konklux workshop

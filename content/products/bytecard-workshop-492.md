@@ -3,7 +3,7 @@ color: '#4b3c7d'
 date: 2019-01-30T21:24:40Z
 description: Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus.
 duration: 3
-image: temp_image_5
+image: /images/ws_image_5.jpg
 instructors: ["Benn Buffin"]
 technologies: ["Eleventy"]
 title: Bytecard workshop

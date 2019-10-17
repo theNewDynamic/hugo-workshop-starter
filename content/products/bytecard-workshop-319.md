@@ -3,7 +3,7 @@ color: '#7d3bae'
 date: 2019-02-11T08:35:04Z
 description: Nulla tempus.
 duration: 6
-image: temp_image_5
+image: /images/ws_image_5.jpg
 instructors: ["Benn Buffin"]
 technologies: ["HTML","Vue","React"]
 title: Bytecard workshop

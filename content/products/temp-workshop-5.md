@@ -3,7 +3,7 @@ color: '#178912'
 date: 2019-02-07T09:49:32Z
 description: Ut tellus. Nulla ut erat id mauris vulputate elementum.
 duration: 5
-image: temp_image_1
+image: /images/ws_image_1.jpg
 instructors: ["Sarette Greep"]
 technologies: ["HTML","CSS"]
 title: Temp workshop

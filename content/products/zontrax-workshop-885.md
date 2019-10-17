@@ -3,7 +3,7 @@ color: '#b7373f'
 date: 2019-06-13T10:36:04Z
 description: Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla.
 duration: 8
-image: temp_image_5
+image: /images/ws_image_5.jpg
 instructors: ["Evy Deabill"]
 technologies: ["Angular","Vue","HTML"]
 title: Zontrax workshop

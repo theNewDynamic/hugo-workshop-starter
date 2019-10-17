@@ -3,7 +3,7 @@ color: '#f7cdb5'
 date: 2018-11-17T15:18:14Z
 description: Quisque porta volutpat erat.
 duration: 5
-image: temp_image_6
+image: /images/ws_image_6.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["React","JS"]
 title: Ronstring workshop

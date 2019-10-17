@@ -3,7 +3,7 @@ color: '#13661b'
 date: 2019-02-28T18:55:57Z
 description: Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.
 duration: 8
-image: temp_image_4
+image: /images/ws_image_4.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["JAMStack"]
 title: Tampflex workshop

@@ -3,7 +3,7 @@ color: '#c4c658'
 date: 2019-04-16T11:15:09Z
 description: Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla.
 duration: 3
-image: temp_image_6
+image: /images/ws_image_6.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["Angular","CSS","React"]
 title: Konklab workshop

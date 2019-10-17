@@ -3,7 +3,7 @@ color: '#522810'
 date: 2019-07-13T12:06:10Z
 description: Duis at velit eu est congue elementum.
 duration: 6
-image: temp_image_1
+image: /images/ws_image_1.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["React","Vue","CSS"]
 title: Rank workshop

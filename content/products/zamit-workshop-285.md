@@ -3,7 +3,7 @@ color: '#d9fa53'
 date: 2019-01-28T04:07:15Z
 description: In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt.
 duration: 5
-image: temp_image_2
+image: /images/ws_image_2.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["JAMStack","Angular"]
 title: Zamit workshop

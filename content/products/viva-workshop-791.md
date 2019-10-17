@@ -3,7 +3,7 @@ color: '#db08b6'
 date: 2019-07-30T20:20:20Z
 description: Integer ac leo.
 duration: 5
-image: temp_image_1
+image: /images/ws_image_1.jpg
 instructors: ["Evy Deabill"]
 technologies: ["React","Vue"]
 title: Viva workshop

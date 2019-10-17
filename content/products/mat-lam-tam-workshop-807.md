@@ -3,7 +3,7 @@ color: '#9a2f3d'
 date: 2019-07-26T15:57:19Z
 description: Quisque ut erat. Curabitur gravida nisi at nibh.
 duration: 5
-image: temp_image_2
+image: /images/ws_image_2.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["Hugo","Eleventy"]
 title: Mat Lam Tam workshop

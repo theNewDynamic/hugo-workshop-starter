@@ -3,7 +3,7 @@ color: '#343947'
 date: 2018-12-09T15:48:55Z
 description: Aliquam quis turpis eget elit sodales scelerisque.
 duration: 4
-image: temp_image_5
+image: /images/ws_image_5.jpg
 instructors: ["Deanna Greim"]
 technologies: ["Angular","Hugo","React"]
 title: Tresom workshop

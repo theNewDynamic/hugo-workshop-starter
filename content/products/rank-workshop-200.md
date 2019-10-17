@@ -3,7 +3,7 @@ color: '#7f4ddc'
 date: 2019-07-27T15:43:48Z
 description: Sed accumsan felis. Ut at dolor quis odio consequat varius.
 duration: 2
-image: temp_image_5
+image: /images/ws_image_5.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["Vue","Angular","React"]
 title: Rank workshop

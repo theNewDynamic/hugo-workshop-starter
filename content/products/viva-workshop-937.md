@@ -3,7 +3,7 @@ color: '#02a7f3'
 date: 2019-06-03T16:11:32Z
 description: Proin risus.
 duration: 8
-image: temp_image_3
+image: /images/ws_image_3.jpg
 instructors: ["Evy Deabill"]
 technologies: ["CSS"]
 title: Viva workshop

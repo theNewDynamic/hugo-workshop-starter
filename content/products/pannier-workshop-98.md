@@ -3,7 +3,7 @@ color: '#a0ad58'
 date: 2019-09-11T05:36:17Z
 description: Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem.
 duration: 3
-image: temp_image_1
+image: /images/ws_image_1.jpg
 instructors: ["Sarette Greep"]
 technologies: ["JS","Angular","CSS"]
 title: Pannier workshop

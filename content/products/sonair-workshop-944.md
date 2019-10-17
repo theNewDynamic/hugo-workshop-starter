@@ -3,7 +3,7 @@ color: '#4eadd6'
 date: 2019-02-10T05:58:10Z
 description: Vestibulum rutrum rutrum neque.
 duration: 6
-image: temp_image_5
+image: /images/ws_image_5.jpg
 instructors: ["Evy Deabill"]
 technologies: ["Angular","Hugo"]
 title: Sonair workshop

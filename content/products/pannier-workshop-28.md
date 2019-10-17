@@ -3,7 +3,7 @@ color: '#0fbf5a'
 date: 2019-08-21T17:16:39Z
 description: Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.
 duration: 7
-image: temp_image_2
+image: /images/ws_image_2.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["JAMStack","Hugo"]
 title: Pannier workshop

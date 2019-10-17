@@ -3,7 +3,7 @@ color: '#87391b'
 date: 2019-04-24T22:46:17Z
 description: Pellentesque eget nunc.
 duration: 2
-image: temp_image_5
+image: /images/ws_image_5.jpg
 instructors: ["Deanna Greim"]
 technologies: ["React","JAMStack","Vue"]
 title: Voyatouch workshop

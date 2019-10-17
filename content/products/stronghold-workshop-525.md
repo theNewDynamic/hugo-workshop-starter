@@ -3,7 +3,7 @@ color: '#4785b6'
 date: 2019-07-13T14:57:25Z
 description: Morbi non quam nec dui luctus rutrum.
 duration: 3
-image: temp_image_2
+image: /images/ws_image_2.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["JS","Eleventy"]
 title: Stronghold workshop

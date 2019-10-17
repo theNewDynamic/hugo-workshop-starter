@@ -3,7 +3,7 @@ color: '#873e41'
 date: 2018-11-23T02:24:53Z
 description: Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.
 duration: 4
-image: temp_image_1
+image: /images/ws_image_1.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["React"]
 title: It workshop

@@ -3,7 +3,7 @@ color: '#3582d1'
 date: 2018-12-20T20:01:54Z
 description: Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim.
 duration: 2
-image: temp_image_5
+image: /images/ws_image_5.jpg
 instructors: ["Sarette Greep"]
 technologies: ["React","HTML"]
 title: Tin workshop

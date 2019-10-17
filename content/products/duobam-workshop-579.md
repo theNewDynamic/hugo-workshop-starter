@@ -3,7 +3,7 @@ color: '#655e9f'
 date: 2019-07-28T05:16:14Z
 description: Pellentesque ultrices mattis odio. Donec vitae nisi.
 duration: 2
-image: temp_image_5
+image: /images/ws_image_5.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["JAMStack","JS","Vue"]
 title: Duobam workshop

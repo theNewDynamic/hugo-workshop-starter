@@ -3,7 +3,7 @@ color: '#9c7151'
 date: 2018-12-02T23:00:17Z
 description: Nunc rhoncus dui vel sem. Sed sagittis.
 duration: 3
-image: temp_image_1
+image: /images/ws_image_1.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["JS","Angular"]
 title: Redhold workshop

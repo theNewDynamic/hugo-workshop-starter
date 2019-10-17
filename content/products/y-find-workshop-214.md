@@ -3,7 +3,7 @@ color: '#7a02da'
 date: 2019-06-24T18:34:57Z
 description: Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc.
 duration: 4
-image: temp_image_1
+image: /images/ws_image_1.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["React"]
 title: Y-find workshop

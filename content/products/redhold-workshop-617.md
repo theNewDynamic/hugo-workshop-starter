@@ -3,7 +3,7 @@ color: '#439bac'
 date: 2018-10-17T11:16:17Z
 description: Vestibulum quam sapien, varius ut, blandit non, interdum in, ante.
 duration: 7
-image: temp_image_6
+image: /images/ws_image_6.jpg
 instructors: ["Evy Deabill"]
 technologies: ["Vue"]
 title: Redhold workshop

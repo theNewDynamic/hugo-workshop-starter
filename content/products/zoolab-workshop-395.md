@@ -3,7 +3,7 @@ color: '#52a136'
 date: 2018-10-29T20:57:42Z
 description: Donec posuere metus vitae ipsum. Aliquam non mauris.
 duration: 5
-image: temp_image_1
+image: /images/ws_image_1.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["JS","Hugo"]
 title: Zoolab workshop

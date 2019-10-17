@@ -3,7 +3,7 @@ color: '#e67b9d'
 date: 2019-03-30T21:46:06Z
 description: Proin eu mi. Nulla ac enim.
 duration: 6
-image: temp_image_4
+image: /images/ws_image_4.jpg
 instructors: ["Deanna Greim"]
 technologies: ["JAMStack","CSS","Eleventy"]
 title: Stronghold workshop

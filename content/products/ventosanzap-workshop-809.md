@@ -3,7 +3,7 @@ color: '#538af4'
 date: 2018-10-13T06:23:53Z
 description: Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam.
 duration: 7
-image: temp_image_1
+image: /images/ws_image_1.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["Vue"]
 title: Ventosanzap workshop

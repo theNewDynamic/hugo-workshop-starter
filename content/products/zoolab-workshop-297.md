@@ -3,7 +3,7 @@ color: '#6f88bc'
 date: 2018-10-31T07:08:48Z
 description: Proin eu mi. Nulla ac enim.
 duration: 5
-image: temp_image_5
+image: /images/ws_image_5.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["Vue"]
 title: Zoolab workshop

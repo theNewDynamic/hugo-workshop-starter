@@ -3,7 +3,7 @@ color: '#da587f'
 date: 2019-08-28T00:54:52Z
 description: Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien.
 duration: 4
-image: temp_image_3
+image: /images/ws_image_3.jpg
 instructors: ["Deanna Greim"]
 technologies: ["HTML"]
 title: Prodder workshop

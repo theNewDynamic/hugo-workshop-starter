@@ -3,7 +3,7 @@ color: '#bc4841'
 date: 2019-02-03T23:10:04Z
 description: In sagittis dui vel nisl. Duis ac nibh.
 duration: 6
-image: temp_image_3
+image: /images/ws_image_3.jpg
 instructors: ["Deanna Greim"]
 technologies: ["Eleventy","JS","React"]
 title: Bitchip workshop

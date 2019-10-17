@@ -3,7 +3,7 @@ color: '#7b9f7a'
 date: 2019-06-19T22:44:36Z
 description: Nulla mollis molestie lorem.
 duration: 8
-image: temp_image_4
+image: /images/ws_image_4.jpg
 instructors: ["Berkie Langley"]
 technologies: ["HTML","CSS"]
 title: Otcom workshop

@@ -3,7 +3,7 @@ color: '#6412e9'
 date: 2019-08-12T01:53:26Z
 description: Vestibulum rutrum rutrum neque.
 duration: 4
-image: temp_image_1
+image: /images/ws_image_1.jpg
 instructors: ["Evy Deabill"]
 technologies: ["JS"]
 title: Stringtough workshop

@@ -3,7 +3,7 @@ color: '#7015fd'
 date: 2019-02-09T18:39:26Z
 description: Suspendisse potenti.
 duration: 3
-image: temp_image_6
+image: /images/ws_image_6.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["HTML","JAMStack","React"]
 title: Sonsing workshop

@@ -3,7 +3,7 @@ color: '#246100'
 date: 2019-04-29T15:04:00Z
 description: Etiam justo. Etiam pretium iaculis justo.
 duration: 2
-image: temp_image_6
+image: /images/ws_image_6.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["JAMStack","CSS"]
 title: Subin workshop

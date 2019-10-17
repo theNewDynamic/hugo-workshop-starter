@@ -3,7 +3,7 @@ color: '#f18c4b'
 date: 2019-05-14T21:44:10Z
 description: Vestibulum quam sapien, varius ut, blandit non, interdum in, ante.
 duration: 3
-image: temp_image_3
+image: /images/ws_image_3.jpg
 instructors: ["Berkie Langley"]
 technologies: ["CSS","Angular"]
 title: Fixflex workshop

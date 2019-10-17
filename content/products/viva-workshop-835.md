@@ -3,7 +3,7 @@ color: '#f729c0'
 date: 2019-04-08T05:01:03Z
 description: Sed vel enim sit amet nunc viverra dapibus.
 duration: 2
-image: temp_image_1
+image: /images/ws_image_1.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["React","Vue"]
 title: Viva workshop

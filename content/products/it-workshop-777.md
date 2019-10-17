@@ -3,7 +3,7 @@ color: '#a85257'
 date: 2019-02-03T04:01:24Z
 description: Duis at velit eu est congue elementum. In hac habitasse platea dictumst.
 duration: 2
-image: temp_image_1
+image: /images/ws_image_1.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["HTML","Hugo"]
 title: It workshop

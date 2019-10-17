@@ -3,7 +3,7 @@ color: '#86002b'
 date: 2019-08-12T04:18:39Z
 description: Nam nulla.
 duration: 3
-image: temp_image_6
+image: /images/ws_image_6.jpg
 instructors: ["Sarette Greep"]
 technologies: ["JS","React","Eleventy"]
 title: Stim workshop

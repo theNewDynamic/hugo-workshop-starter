@@ -3,7 +3,7 @@ color: '#fb43ae'
 date: 2019-04-09T23:54:23Z
 description: Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
 duration: 5
-image: temp_image_6
+image: /images/ws_image_6.jpg
 instructors: ["Berkie Langley"]
 technologies: ["Eleventy"]
 title: Konklux workshop

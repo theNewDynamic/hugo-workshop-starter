@@ -3,7 +3,7 @@ color: '#b01492'
 date: 2019-03-27T03:53:40Z
 description: Duis bibendum. Morbi non quam nec dui luctus rutrum.
 duration: 4
-image: temp_image_4
+image: /images/ws_image_4.jpg
 instructors: ["Evy Deabill"]
 technologies: ["Hugo","Eleventy","HTML"]
 title: Lotstring workshop

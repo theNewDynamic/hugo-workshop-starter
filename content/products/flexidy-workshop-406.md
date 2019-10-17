@@ -3,7 +3,7 @@ color: '#db8788'
 date: 2019-08-31T18:53:42Z
 description: Suspendisse accumsan tortor quis turpis.
 duration: 8
-image: temp_image_6
+image: /images/ws_image_6.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["JAMStack","Angular"]
 title: Flexidy workshop

@@ -3,7 +3,7 @@ color: '#c13836'
 date: 2019-05-10T10:50:55Z
 description: Praesent lectus.
 duration: 6
-image: temp_image_3
+image: /images/ws_image_3.jpg
 instructors: ["Evy Deabill"]
 technologies: ["Hugo","CSS"]
 title: Y-Solowarm workshop

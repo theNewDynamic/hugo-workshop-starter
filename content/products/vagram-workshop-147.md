@@ -3,7 +3,7 @@ color: '#db4e52'
 date: 2019-08-26T04:20:47Z
 description: Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante.
 duration: 5
-image: temp_image_5
+image: /images/ws_image_5.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["Eleventy","JAMStack","JS"]
 title: Vagram workshop

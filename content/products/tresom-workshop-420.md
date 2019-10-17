@@ -3,7 +3,7 @@ color: '#78baf8'
 date: 2019-01-01T11:31:56Z
 description: Nullam porttitor lacus at turpis.
 duration: 5
-image: temp_image_1
+image: /images/ws_image_1.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["Angular","JAMStack"]
 title: Tresom workshop

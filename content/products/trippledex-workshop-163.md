@@ -3,7 +3,7 @@ color: '#90fddb'
 date: 2019-09-07T04:29:48Z
 description: Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim.
 duration: 2
-image: temp_image_3
+image: /images/ws_image_3.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["CSS","JAMStack","Angular"]
 title: Trippledex workshop

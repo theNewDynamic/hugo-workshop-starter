@@ -3,7 +3,7 @@ color: '#55bc21'
 date: 2019-09-27T12:02:44Z
 description: Cras pellentesque volutpat dui.
 duration: 3
-image: temp_image_5
+image: /images/ws_image_5.jpg
 instructors: ["Berkie Langley"]
 technologies: ["JAMStack","Vue","Hugo"]
 title: Prodder workshop

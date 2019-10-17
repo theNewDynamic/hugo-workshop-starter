@@ -3,7 +3,7 @@ color: '#b241fa'
 date: 2019-03-13T11:01:13Z
 description: In eleifend quam a odio.
 duration: 4
-image: temp_image_6
+image: /images/ws_image_6.jpg
 instructors: ["Evy Deabill"]
 technologies: ["CSS","Vue"]
 title: Keylex workshop

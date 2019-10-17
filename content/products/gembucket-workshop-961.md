@@ -3,7 +3,7 @@ color: '#7d3251'
 date: 2019-08-05T11:21:24Z
 description: Integer ac leo. Pellentesque ultrices mattis odio.
 duration: 4
-image: temp_image_2
+image: /images/ws_image_2.jpg
 instructors: ["Benn Buffin"]
 technologies: ["Eleventy","JS","Angular"]
 title: Gembucket workshop

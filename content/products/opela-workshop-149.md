@@ -3,7 +3,7 @@ color: '#23cf5d'
 date: 2019-05-03T09:09:42Z
 description: Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy.
 duration: 5
-image: temp_image_3
+image: /images/ws_image_3.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["Hugo","HTML","CSS"]
 title: Opela workshop

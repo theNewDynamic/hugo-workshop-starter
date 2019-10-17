@@ -3,7 +3,7 @@ color: '#630770'
 date: 2019-04-28T14:55:08Z
 description: Aliquam erat volutpat.
 duration: 2
-image: temp_image_1
+image: /images/ws_image_1.jpg
 instructors: ["Evy Deabill"]
 technologies: ["CSS"]
 title: Redhold workshop

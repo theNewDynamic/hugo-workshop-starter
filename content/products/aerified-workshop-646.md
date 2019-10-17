@@ -3,7 +3,7 @@ color: '#6507c9'
 date: 2019-01-18T12:07:30Z
 description: Aenean lectus. Pellentesque eget nunc.
 duration: 4
-image: temp_image_6
+image: /images/ws_image_6.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["HTML","JS","Vue"]
 title: Aerified workshop

@@ -3,7 +3,7 @@ color: '#8b1bbc'
 date: 2019-06-21T06:52:29Z
 description: Etiam vel augue.
 duration: 8
-image: temp_image_4
+image: /images/ws_image_4.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["React"]
 title: Zamit workshop

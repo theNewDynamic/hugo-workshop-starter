@@ -3,7 +3,7 @@ color: '#74525c'
 date: 2019-04-28T17:56:20Z
 description: Vestibulum rutrum rutrum neque.
 duration: 4
-image: temp_image_6
+image: /images/ws_image_6.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["Vue","JAMStack","JS"]
 title: Lotstring workshop

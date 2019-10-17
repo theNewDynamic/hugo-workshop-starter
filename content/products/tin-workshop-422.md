@@ -3,7 +3,7 @@ color: '#f935c2'
 date: 2018-10-18T13:11:39Z
 description: Etiam vel augue.
 duration: 5
-image: temp_image_2
+image: /images/ws_image_2.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["React","Hugo","JAMStack"]
 title: Tin workshop

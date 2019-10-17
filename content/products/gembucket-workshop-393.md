@@ -3,7 +3,7 @@ color: '#b73b51'
 date: 2018-11-16T00:40:50Z
 description: Ut tellus.
 duration: 7
-image: temp_image_6
+image: /images/ws_image_6.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["Angular"]
 title: Gembucket workshop

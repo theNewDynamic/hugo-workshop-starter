@@ -3,7 +3,7 @@ color: '#bb1ae8'
 date: 2019-07-02T11:44:27Z
 description: Aenean sit amet justo.
 duration: 7
-image: temp_image_4
+image: /images/ws_image_4.jpg
 instructors: ["Deanna Greim"]
 technologies: ["Hugo"]
 title: Greenlam workshop

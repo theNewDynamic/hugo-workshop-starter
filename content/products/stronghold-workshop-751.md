@@ -3,7 +3,7 @@ color: '#c31691'
 date: 2019-03-13T02:51:13Z
 description: Ut at dolor quis odio consequat varius. Integer ac leo.
 duration: 7
-image: temp_image_6
+image: /images/ws_image_6.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["React","Vue","JAMStack"]
 title: Stronghold workshop

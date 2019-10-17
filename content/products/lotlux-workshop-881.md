@@ -3,7 +3,7 @@ color: '#8cd843'
 date: 2018-11-17T12:09:08Z
 description: Pellentesque ultrices mattis odio.
 duration: 8
-image: temp_image_1
+image: /images/ws_image_1.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["React","JS","JAMStack"]
 title: Lotlux workshop

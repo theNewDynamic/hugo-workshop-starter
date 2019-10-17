@@ -3,7 +3,7 @@ color: '#1ccbbb'
 date: 2019-07-30T19:37:57Z
 description: Aenean lectus. Pellentesque eget nunc.
 duration: 7
-image: temp_image_4
+image: /images/ws_image_4.jpg
 instructors: ["Deanna Greim"]
 technologies: ["JS","React","Eleventy"]
 title: Alphazap workshop

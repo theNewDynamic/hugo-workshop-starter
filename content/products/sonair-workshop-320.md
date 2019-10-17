@@ -3,7 +3,7 @@ color: '#d3d651'
 date: 2019-03-18T15:02:26Z
 description: Nullam varius.
 duration: 3
-image: temp_image_1
+image: /images/ws_image_1.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["Angular"]
 title: Sonair workshop

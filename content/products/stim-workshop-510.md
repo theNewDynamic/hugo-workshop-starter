@@ -3,7 +3,7 @@ color: '#91896d'
 date: 2019-03-03T19:00:47Z
 description: Nulla tempus.
 duration: 6
-image: temp_image_4
+image: /images/ws_image_4.jpg
 instructors: ["Deanna Greim"]
 technologies: ["Angular"]
 title: Stim workshop

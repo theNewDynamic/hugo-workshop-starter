@@ -3,7 +3,7 @@ color: '#261bd0'
 date: 2019-10-10T08:37:57Z
 description: Duis aliquam convallis nunc.
 duration: 7
-image: temp_image_6
+image: /images/ws_image_6.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["Hugo"]
 title: Gembucket workshop

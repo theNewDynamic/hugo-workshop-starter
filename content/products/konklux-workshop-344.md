@@ -3,7 +3,7 @@ color: '#3aebd9'
 date: 2019-01-15T22:38:17Z
 description: Morbi vel lectus in quam fringilla rhoncus.
 duration: 5
-image: temp_image_6
+image: /images/ws_image_6.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["JAMStack","HTML"]
 title: Konklux workshop

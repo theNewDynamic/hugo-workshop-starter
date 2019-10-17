@@ -3,7 +3,7 @@ color: '#3804d1'
 date: 2019-04-24T06:03:47Z
 description: Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.
 duration: 7
-image: temp_image_2
+image: /images/ws_image_2.jpg
 instructors: ["Benn Buffin"]
 technologies: ["Vue","Eleventy","CSS"]
 title: Biodex workshop

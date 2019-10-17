@@ -3,7 +3,7 @@ color: '#2e04af'
 date: 2019-04-03T10:11:47Z
 description: Suspendisse potenti.
 duration: 7
-image: temp_image_5
+image: /images/ws_image_5.jpg
 instructors: ["Benn Buffin"]
 technologies: ["JAMStack"]
 title: Zontrax workshop

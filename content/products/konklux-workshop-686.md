@@ -3,7 +3,7 @@ color: '#702df9'
 date: 2019-08-13T07:52:40Z
 description: Proin interdum mauris non ligula pellentesque ultrices.
 duration: 5
-image: temp_image_5
+image: /images/ws_image_5.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["HTML","Hugo"]
 title: Konklux workshop

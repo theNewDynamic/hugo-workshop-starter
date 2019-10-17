@@ -3,7 +3,7 @@ color: '#5a49b3'
 date: 2019-10-07T06:36:40Z
 description: Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
 duration: 7
-image: temp_image_5
+image: /images/ws_image_5.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["JS"]
 title: Solarbreeze workshop

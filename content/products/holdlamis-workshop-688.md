@@ -3,7 +3,7 @@ color: '#f5907c'
 date: 2019-10-01T18:48:31Z
 description: Nulla justo. Aliquam quis turpis eget elit sodales scelerisque.
 duration: 8
-image: temp_image_6
+image: /images/ws_image_6.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["Vue","Angular","CSS"]
 title: Holdlamis workshop

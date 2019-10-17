@@ -3,7 +3,7 @@ color: '#2d1d89'
 date: 2019-06-14T14:24:36Z
 description: Integer non velit.
 duration: 3
-image: temp_image_5
+image: /images/ws_image_5.jpg
 instructors: ["Sarette Greep"]
 technologies: ["JAMStack"]
 title: Stringtough workshop

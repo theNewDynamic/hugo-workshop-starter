@@ -3,7 +3,7 @@ color: '#ba075c'
 date: 2019-07-12T01:04:54Z
 description: Integer ac leo. Pellentesque ultrices mattis odio.
 duration: 4
-image: temp_image_2
+image: /images/ws_image_2.jpg
 instructors: ["Sarette Greep"]
 technologies: ["JAMStack","Vue"]
 title: Ronstring workshop

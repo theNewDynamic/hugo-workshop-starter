@@ -3,7 +3,7 @@ color: '#3b941c'
 date: 2019-05-19T19:58:41Z
 description: Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
 duration: 6
-image: temp_image_1
+image: /images/ws_image_1.jpg
 instructors: ["Evy Deabill"]
 technologies: ["Angular","Eleventy","HTML"]
 title: Fintone workshop

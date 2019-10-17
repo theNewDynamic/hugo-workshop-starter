@@ -3,7 +3,7 @@ color: '#51b161'
 date: 2018-10-21T08:09:23Z
 description: Praesent blandit.
 duration: 3
-image: temp_image_2
+image: /images/ws_image_2.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["Vue","Angular"]
 title: Treeflex workshop

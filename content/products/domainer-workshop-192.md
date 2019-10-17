@@ -3,7 +3,7 @@ color: '#fa98bd'
 date: 2018-11-02T15:38:55Z
 description: Proin risus.
 duration: 5
-image: temp_image_5
+image: /images/ws_image_5.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["CSS"]
 title: Domainer workshop

@@ -3,7 +3,7 @@ color: '#dfbea3'
 date: 2019-06-22T04:12:56Z
 description: Suspendisse potenti. In eleifend quam a odio.
 duration: 4
-image: temp_image_5
+image: /images/ws_image_5.jpg
 instructors: ["Benn Buffin"]
 technologies: ["Hugo"]
 title: Toughjoyfax workshop

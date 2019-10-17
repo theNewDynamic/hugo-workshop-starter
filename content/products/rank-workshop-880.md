@@ -3,7 +3,7 @@ color: '#68a412'
 date: 2019-08-12T12:21:16Z
 description: Nullam sit amet turpis elementum ligula vehicula consequat.
 duration: 5
-image: temp_image_3
+image: /images/ws_image_3.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["JAMStack"]
 title: Rank workshop

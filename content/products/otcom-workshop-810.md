@@ -3,7 +3,7 @@ color: '#f20ab8'
 date: 2019-08-03T04:31:32Z
 description: Morbi non quam nec dui luctus rutrum. Nulla tellus.
 duration: 8
-image: temp_image_3
+image: /images/ws_image_3.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["CSS","JAMStack"]
 title: Otcom workshop

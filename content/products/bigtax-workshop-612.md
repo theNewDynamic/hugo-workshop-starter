@@ -3,7 +3,7 @@ color: '#aeccb9'
 date: 2019-06-03T06:04:10Z
 description: Curabitur gravida nisi at nibh. In hac habitasse platea dictumst.
 duration: 3
-image: temp_image_6
+image: /images/ws_image_6.jpg
 instructors: ["Berkie Langley"]
 technologies: ["Hugo"]
 title: Bigtax workshop

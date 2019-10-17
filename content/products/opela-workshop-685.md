@@ -3,7 +3,7 @@ color: '#46f074'
 date: 2019-05-03T22:33:25Z
 description: Nunc rhoncus dui vel sem.
 duration: 5
-image: temp_image_1
+image: /images/ws_image_1.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["HTML","JS","React"]
 title: Opela workshop

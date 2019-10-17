@@ -3,7 +3,7 @@ color: '#a19f62'
 date: 2019-05-03T13:08:45Z
 description: Etiam pretium iaculis justo. In hac habitasse platea dictumst.
 duration: 3
-image: temp_image_5
+image: /images/ws_image_5.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["JS","React","JAMStack"]
 title: Fix San workshop

@@ -3,7 +3,7 @@ color: '#431ca3'
 date: 2019-04-13T07:44:13Z
 description: Aenean lectus.
 duration: 4
-image: temp_image_3
+image: /images/ws_image_3.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["React","Angular","Vue"]
 title: Regrant workshop

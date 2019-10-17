@@ -3,7 +3,7 @@ color: '#0e7732'
 date: 2019-05-27T23:40:43Z
 description: Ut tellus.
 duration: 8
-image: temp_image_1
+image: /images/ws_image_1.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["Hugo","CSS","JAMStack"]
 title: Cookley workshop

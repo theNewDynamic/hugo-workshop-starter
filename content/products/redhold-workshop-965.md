@@ -3,7 +3,7 @@ color: '#83d048'
 date: 2019-09-30T21:05:21Z
 description: Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem.
 duration: 4
-image: temp_image_2
+image: /images/ws_image_2.jpg
 instructors: ["Deanna Greim"]
 technologies: ["Vue"]
 title: Redhold workshop
