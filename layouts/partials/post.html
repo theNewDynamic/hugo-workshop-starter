@@ -1,0 +1,14 @@
+{{ with .Page }}
+<div class="card mb-4 {{ if $.blue }} bg-primary text-white {{ end }}">
+    {{ with .Params.image }}
+    <img src="{{ . }}" alt="" class="card-img-top">
+    {{ end }}
+    <div class="card-body">
+      <h5 class="card-title">{{ .Title }}</h5>
+      <p class="card-text">{{ truncate 200 .Summary }}</p>
+      <p>
+        <a href="{{ .RelPermalink }}" class="btn btn-primary">Read more</a>
+      </p>
+    </div>
+  </div> 
+{{ end }}

@@ -1,7 +1,7 @@
 ---
 title: Workshop Shop
 cascade:
-  draft: true
+  draft: false
 menu: 
   main:
     name: Shop
