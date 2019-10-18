@@ -1,0 +1,13 @@
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <div class="container">
+    <a class="navbar-brand" href="{{ site.Home.RelPermalink }}">Workshop Blog</a>
+    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+      <div class="navbar-nav">
+          {{ range site.Menus.main }}
+            {{ $active := $.IsMenuCurrent "main" . }}
+            <a class="nav-item nav-link {{ if $active }} text-primary {{ end }}" href="{{ .URL }}">{{ .Name }}</a>
+          {{ end }}
+      </div>
+    </div>
+  </div>
+</nav>

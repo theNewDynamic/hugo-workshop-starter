@@ -1,0 +1,4 @@
+- name: twitter
+  url: https://twitter/whatever
+- name: facebook
+  url: https://twitter/facebook

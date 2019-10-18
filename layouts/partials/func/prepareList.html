@@ -1,0 +1,14 @@
+{{ $pagi := .Paginate .Pages 12 }}
+{{ $pages := slice }}
+{{ range $pagi.Pages }}
+  {{ $pages = $pages | append (partialCached "transformer" . .File.UniqueID) }}
+{{ end }}
+
+{{ $pagination := dict }}
+{{ with $pagi.Prev }}
+  {{ $pagination = $pagination | merge (dict "prev" .URL) }}
+{{ end }}
+{{ with $pagi.Next }}
+  {{ $pagination = $pagination | merge (dict "next" .URL) }}
+{{ end }}
+{{ return dict "data" $pages "pagination" $pagination }}

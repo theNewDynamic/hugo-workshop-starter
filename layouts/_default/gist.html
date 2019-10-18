@@ -1,0 +1,22 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+
+  All that gist!
+  <hr>
+  {{ range site.Data.socials }}
+  <p><a href="{{ .url }}">{{ .name }}</a></p>
+  {{ end }}
+  <ul>
+    {{ $domain := "https://api.github.com/users/" }}
+    {{ $user := "budparr" }}
+    {{ $gists := getJSON $domain $user "/gists" }}
+    {{ with $gists }}
+      {{ range . }}
+        <li>{{ .description }}</li>
+      {{ end }}
+    {{ end }}
+  </ul>
+  <div>
+    {{ .Content }}
+  </div>
+{{ end }}
