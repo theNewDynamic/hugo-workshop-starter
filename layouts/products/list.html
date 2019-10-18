@@ -1,0 +1,11 @@
+{{ define "main" }}
+  <div>
+    <div class="row">
+      {{ range .Pages }}
+        <div class="col-md-3 mb-4">
+          {{ partial "product.html" . }}
+        </div>
+      {{ end }}
+    </div>
+  </div>
+{{ end }}
