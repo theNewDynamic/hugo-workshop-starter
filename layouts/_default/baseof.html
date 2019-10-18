@@ -6,9 +6,9 @@
   <title>{{ .Site.Title }}</title>
   <meta name="description" content="Lorem">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-
+  {{ with resources.Get "scss/main.scss" | toCSS }}
+    <link rel="stylesheet" href="{{ .RelPermalink }}">
+  {{ end }}
 </head>
   <body>
     <!-- header -->
@@ -24,7 +24,6 @@
       </div>
     </nav>
     <!-- /header -->
-
     <div class="container">
       <main class="py-5" role="main">
         {{ block "main" . }}
