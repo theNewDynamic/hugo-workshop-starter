@@ -1,0 +1,15 @@
+{{ define "main" }}
+  {{ $pagi := .Paginate .Pages.ByTitle 5 }}
+    <div class="row">
+        <h3>{{ $pagi.PageNumber }}</h3>
+        Total pages: {{ $pagi.TotalPages }}
+      {{ range $pagi.Pages }}
+        <div class="col-md-3 mb-4">
+          {{ partial "product.html" . }}
+        </div>
+      {{ end }}
+
+      {{ template "_internal/pagination.html" . }}
+    </div>
+  </div>
+{{ end }}

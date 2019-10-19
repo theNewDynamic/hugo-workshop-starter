@@ -1,3 +1,12 @@
-<p style="font-family: sans-serif;">
-  nothing yet \_(ツ)_/¯
-</p>
+{{ define "main" }}
+  {{ range .Pages }}
+  <hr>
+    <p>
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    <p>
+        {{ with .Params.technologies }}
+          {{ printf "%#v" . }}
+        {{ end }}
+    </p>
+  {{ end }}
+{{ end }}

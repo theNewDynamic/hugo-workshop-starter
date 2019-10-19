@@ -1,0 +1,10 @@
+{{ define "main" }}
+  <div class="jumbotron">
+      <h1>{{ .Title }}</h1>
+      <p>Workshopers: {{ .Params.workshopers }}</p>
+      <p>Reading time: {{ .ReadingTime}} minutes </p>
+  </div>
+  <div>
+    {{ .Content }}
+  </div>
+{{ end }}

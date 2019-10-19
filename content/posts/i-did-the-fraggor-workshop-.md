@@ -8,6 +8,7 @@ featured: true
 workshopers: 4
 ---
 Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
+[link](google.com)
 
 Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.
 

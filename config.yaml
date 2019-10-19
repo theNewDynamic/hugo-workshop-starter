@@ -1,5 +1,12 @@
 baseURL: http://example.org/
 languageCode: en-us
 title: Worshopshop!
+taxonomies:
+  technology: technologies
+menus:
+  main:
+    - name: Twitter
+      url: https://twitter.com/worshop
 params:
+  test: yeah
   description: "The future is JAMstack, but many people want to know: What is the tool that will allow me to build my personal blog, yet, scale to large sites and handle any sort of complexity I need? Hugo is not only the world’s fastest static site generator, but also happens to be a sophisticated build tool that is as powerful as it is flexible." 

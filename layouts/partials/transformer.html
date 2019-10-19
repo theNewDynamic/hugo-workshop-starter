@@ -1,0 +1,9 @@
+{{ $output := dict "title" .Title }}
+{{ $urls := dict "HTML" .RelPermalink }}
+{{ with .OutputFormats.Get "JSON" }}
+  {{ $urls = $urls | merge (dict "JSON" .RelPermalink) }}
+{{ end }}
+{{ $output = merge $output (dict "urls" $urls) }}
+{{ $date := .Date.Format "Mon Jan 2 15:04:05 MST 2006" }}
+{{ $output = merge $output (dict "date" $date) }}
+{{ return $output }}

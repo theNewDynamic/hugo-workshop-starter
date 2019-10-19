@@ -1,6 +1,7 @@
 ---
 title: Home
-menu:
-  main:
+menus:
+  footer:
+    identifier: homepage
     weight: 1
 ---

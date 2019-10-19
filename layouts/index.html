@@ -1,40 +1,28 @@
-<!doctype html>
-<html class="no-js" lang="en">
+{{ define "main" }}
+  <!-- main -->
+  <div class="jumbotron mt-4"
+  >
+    <h1 class="display-4">{{ .Title }}</h1>
+    {{ with site.Params.description }}
+    <p class="lead">{{ . }}</p>
+    {{ else }}
+    No description
+    {{ end }}
+  </div>
+  <!-- main -->
 
-<head>
-  <meta charset="utf-8">
-  <title>{{ .Site.Title }}</title>
-  <meta name="description" content="Lorem">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-
-</head>
-  <body>
-    <!-- header -->
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
-      <div class="container">
-        <a class="navbar-brand" href="#">Workshop Blog</a>
-          <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-            <div class="navbar-nav">
-                <a class="nav-item nav-link " href="/">Home</a>
-                <a class="nav-item nav-link " href="/posts/">Blog</a>
-            </div>
-          </div>
-      </div>
-    </nav>
-    <!-- /header -->
-
-    <div class="container">
-      <main class="py-5" role="main">
-          <!-- main -->
-          <div class="jumbotron mt-4"
-          >
-            <h1 class="display-4">Hugo Worshopshop!</h1>
-            <p class="lead">Just a blog for now \_(ツ)_/¯</p>
-          </div>
-          <!-- main -->
-      </main>
-    </div>
-  </body>
-</html>
+  {{ $posts := where site.RegularPages ".Type" "posts"  }}
+  {{ $featured := where $posts ".Params.featured" true }}
+  {{ $featured = first 2 $featured }}
+  {{ $posts = complement $featured $posts }}
+  <h4>Featured</h4>
+  {{ range $featured }}
+    {{ $context := dict "Page" . "blue" true }}
+    {{ partial "post.html" $context }}
+  {{ end }}
+  <h4>Posts</h4>
+  {{ range $posts }}
+    {{ $context := dict "Page" . "blue" false }}
+    {{ partial "post.html" $context }}
+  {{ end }}
+{{ end }}
